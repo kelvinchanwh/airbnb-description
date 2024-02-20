@@ -1,4 +1,5 @@
 # How can we best leverage AirBnB reviews while making bookings?
+[Click here to read the blog post](https://kelvinchanwh.com/projects/airbnb-analysis)
 
 ## Background
 
@@ -20,7 +21,7 @@ The main part of the project was to use a Large Language Model (LLM) to summariz
  - Can we reduce the time customers spend on reading reviews through summarization?
 
 ### Findings
-To learn more about the findings, [click here to read the blog post](https://kelvinchanwh.com/projects/airbnb-description)
+To learn more about the findings, [click here to read the blog post](https://kelvinchanwh.com/projects/airbnb-analysis)
 
 ### Limitations
  - The analysis done here assumes that the data is taken at a given time and does not take into account seasonality and other factors that may affect the price. Thus, the values are only accurate at time of analysis. It is **NOT ADVISED** to use the prices found as a benchmark for your upcoming trip. 
